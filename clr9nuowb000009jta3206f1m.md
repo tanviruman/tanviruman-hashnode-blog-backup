@@ -17,7 +17,7 @@ tags: c, 2articles1week
 
 ### Problem-1
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704815437531/3f9e7f10-482e-4298-bbc5-764064c425dc.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704815437531/3f9e7f10-482e-4298-bbc5-764064c425dc.png)
 
 ```c
 #include<stdio.h>
@@ -34,7 +34,7 @@ int main ()
 
 ### Problem-2
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704815597810/d99d386c-219e-4d6b-8ef2-8003f5cb2fc2.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704815597810/d99d386c-219e-4d6b-8ef2-8003f5cb2fc2.png)
 
 ```c
 #include<stdio.h>
@@ -51,7 +51,7 @@ int main ()
 
 ### Problem-3
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704817753585/130c180f-2fea-4b13-ba04-f2fec81f39e3.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704817753585/130c180f-2fea-4b13-ba04-f2fec81f39e3.png)
 
 ```c
 #include<stdio.h>
@@ -66,7 +66,7 @@ int main()
 
 ### Problem-4
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704817921583/aa43c130-1d3f-4899-9fd6-2891ea778d13.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704817921583/aa43c130-1d3f-4899-9fd6-2891ea778d13.png)
 
 ```c
 #include<stdio.h>
@@ -91,7 +91,7 @@ int main()
 
 ### Problem-5
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704818103924/a4a9bb64-2b06-4eac-84e5-898053ceb8a0.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704818103924/a4a9bb64-2b06-4eac-84e5-898053ceb8a0.png)
 
 ```c
 #include<stdio.h>
@@ -126,7 +126,7 @@ return 0 ;
 
 ### Problem-6
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704818235342/b45ba287-9b33-4919-8437-178cc71d9c29.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704818235342/b45ba287-9b33-4919-8437-178cc71d9c29.png)
 
 ```c
 #include<stdio.h>
@@ -151,7 +151,7 @@ int main()
 
 ### Problem-7
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704818407539/31418607-7186-4185-85a3-4f9ff9b1a692.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704818407539/31418607-7186-4185-85a3-4f9ff9b1a692.png)
 
 ```c
 #include<stdio.h>
@@ -185,7 +185,7 @@ while(getchar()!='\n');
 
 ### Problem-8
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704818993664/684fd5a7-229b-44eb-9167-735c32d11f1c.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704818993664/684fd5a7-229b-44eb-9167-735c32d11f1c.png)
 
 ```c
 #include<stdio.h>
@@ -210,7 +210,7 @@ int main()
 
 ### Problem-9
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704819227974/b7090f01-bbbd-46c0-9b24-69e922ec4e03.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704819227974/b7090f01-bbbd-46c0-9b24-69e922ec4e03.png)
 
 ```c
 #include<stdio.h>
@@ -232,9 +232,9 @@ int main()
 
 ### Problem-10
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704819432459/87f3e50c-baa7-41d2-94fe-c5f3e483ec30.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704819432459/87f3e50c-baa7-41d2-94fe-c5f3e483ec30.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704820430807/b6c15106-7385-42fb-ac60-72bd72f9986c.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704820430807/b6c15106-7385-42fb-ac60-72bd72f9986c.png)
 
 ```c
 #include <stdio.h>
@@ -259,7 +259,7 @@ int main() {
 
 ### Problem-11
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704820522056/7f20e7a6-5258-4ba1-b980-c9f6aae7daa2.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704820522056/7f20e7a6-5258-4ba1-b980-c9f6aae7daa2.png)
 
 ```c
 #include <stdio.h>
@@ -284,7 +284,7 @@ int main() {
 
 ### Problem-12
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704820787489/a1bd4cdc-f75d-427c-967a-040602c1586e.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704820787489/a1bd4cdc-f75d-427c-967a-040602c1586e.png)
 
 ```c
 #include<stdio.h>
@@ -303,7 +303,7 @@ int main()
 
 ### Problem-13
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704821120472/d9e474f6-7c1b-4ce6-91d4-9bea9b32b29c.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704821120472/d9e474f6-7c1b-4ce6-91d4-9bea9b32b29c.png )
 
 ```c
 #include<stdio.h>
@@ -323,7 +323,7 @@ int main()
 
 ### Problem-14
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704821350403/ee04ad06-8d6b-442e-b649-fd7d81bea720.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704821350403/ee04ad06-8d6b-442e-b649-fd7d81bea720.png )
 
 ```c
 #include <stdio.h>
@@ -350,7 +350,7 @@ int main() {
 
 ### Problem-15
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704821535652/176bb277-abbc-4247-9030-463a277b40ac.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704821535652/176bb277-abbc-4247-9030-463a277b40ac.png )
 
 ```c
 #include <stdio.h>
