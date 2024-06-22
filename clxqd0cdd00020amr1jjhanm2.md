@@ -8,6 +8,7 @@ datePublished: Sat Jun 22 2024 16:53:54 GMT+0000 (Coordinated Universal Time)
 cuid: clxqd0cdd00020amr1jjhanm2
 slug: nested-for-loop-related-problems-and-solutions
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1719074811307/61165580-bbd2-4a36-8397-107af1ca669a.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1719075288653/fdcde44d-63f0-47ab-9eca-6ccf7ee2d091.jpeg
 tags: c, 2articles1week
 
 ---
